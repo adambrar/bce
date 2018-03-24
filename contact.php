@@ -30,14 +30,16 @@
         <!-- Contact Details Column -->
         <div class="col-lg-5 mb-4">
           <h3>Contact Details</h3>
+          <h5>Main Office</h5>
           <p>
-            77 Mount Sima Road
-            <br>Whitehorse, Yukon Y1A 0A8
-            <br>Canada
-            <br>
+            77 Mount Sima Road<br>
+            Whitehorse, Yukon Y1A 0A8<br>
+            Canada<br>
           </p>
+          <h5>Mailing Address</h5>
+          <p>Box 262-108 Elliott Street, Whitehorse Y1A 6C4</p>
           <p>
-            <abbr title="Phone">P</abbr>: 1-867-345-7289
+            <abbr title="Phone">P</abbr>: 1-867-456-7289
           </p>
           <p>
             <abbr title="Email">E</abbr>:
@@ -54,13 +56,7 @@
     </div>
     <!-- /.container -->
 
-    <!-- Footer -->
-    <footer class="py-5 bg-dark">
-      <div class="container">
-        <p class="m-0 text-center text-white">Copyright &copy; Your Website 2017</p>
-      </div>
-      <!-- /.container -->
-    </footer>
+    <?php include 'include/footer.php' ?>
 
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>

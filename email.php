@@ -1,0 +1,1 @@
+<?php mail('adamebrar@gmail.com','Subject of email','Body of email.'); ?>

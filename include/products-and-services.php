@@ -1,21 +1,15 @@
-<div class="list-group">
-    <h3 class="list-group-item">Products</h3>
-    <a href="compost-liberator.php" class="list-group-item">Compost Liberator</a>
-    <a href="about.html" class="list-group-item">About</a>
-    <a href="services.html" class="list-group-item">Services</a>
-    <a href="contact.html" class="list-group-item">Contact</a>
-    <a href="portfolio-1-col.html" class="list-group-item">1 Column Portfolio</a>
-    <a href="portfolio-2-col.html" class="list-group-item">2 Column Portfolio</a>
-    <a href="portfolio-3-col.html" class="list-group-item">3 Column Portfolio</a>
-    <a href="portfolio-4-col.html" class="list-group-item">4 Column Portfolio</a>
-    <h3 class="list-group-item">Services</h3>
-    <a href="portfolio-item.html" class="list-group-item">Single Portfolio Item</a>
-    <a href="blog-home-1.html" class="list-group-item">Blog Home 1</a>
-    <a href="blog-home-2.html" class="list-group-item">Blog Home 2</a>
-    <a href="blog-post.html" class="list-group-item">Blog Post</a>
-    <a href="full-width.html" class="list-group-item">Full Width Page</a>
-    <a href="sidebar.html" class="list-group-item active">Sidebar Page</a>
-    <a href="faq.html" class="list-group-item">FAQ</a>
-    <a href="404.html" class="list-group-item">404</a>
-    <a href="pricing.html" class="list-group-item">Pricing Table</a>
+<h3 class="text-center">Products</h3>
+<div class="list-group mb-3 text-center">
+    <a href="/bce/products/compost-liberator.php" class="list-group-item color-bce">Compost Liberator System</a>
+    <a href="/bce/products/vacuum-system.php" class="list-group-item color-bce">Roll-off Bin Vacuum, with optional Airknife System</a>
+    <a href="/bce/products/fine-contaminant-separator.php" class="list-group-item color-bce">Fine Contaminant Separator</a>
+    <a href="/bce/products/glass-stone-separator.php" class="list-group-item color-bce">Glass and Stone Separator</a>
+    <a href="/bce/products/scalping-screens.php" class="list-group-item color-bce">Vibrating Scalping Screens and Surge Bins</a>
+    <a href="/bce/products/trommel-screens.php" class="list-group-item color-bce">Stationary Trommel Screens</a>
+</div>
+<h3 class="text-center">Services</h3>
+<div class="list-group text-center">
+    <a href="/bce/services/assessment-and-quotation.php" class="list-group-item color-bce">Assessments and Quotation</a>
+    <a href="/bce/services/equipment-material-consulting.php" class="list-group-item color-bce">Equipment and Material Consultation</a>
+    <a href="/bce/services/lab-testing.php" class="list-group-item color-bce">Lab Testing</a>
 </div>
