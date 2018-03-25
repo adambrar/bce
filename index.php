@@ -4,9 +4,12 @@
   <head>
 
     <?php include 'include/head.php' ?>
-
+      
+    <!-- VideoJS includes -->
+    <link href="http://vjs.zencdn.net/6.6.3/video-js.css" rel="stylesheet">
+    <!-- VideoJS to support IE8 -->
+      <script src="http://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
   </head>
-
   <body>
 
     <!-- Navigation -->
@@ -54,15 +57,35 @@
       <!-- START THE FEATURETTES -->
 
       <div class="container marketing">
-
         <div id="contaminant-problem" class="row featurette">
-            <div class="col-md-5 mt-5 mb-5">
+            <div class="col-md-6 mt-5 mb-5">
               <a href="contaminant-problem.php"><img class="img-fluid rounded" src="media/home/contaminated-waste.jpg" alt=""></a>
             </div>
-            <div class="col-md-7">
-              <h2 class="featurette-heading">The Contaminant Problem</h2>
+            <div class="col-md-6">
+              <h3 class="featurette-heading">The Contaminant Problem</h3>
               <p>Composting is a rapidly growing sector of the waste management industry worldwide.  Most waste entering landfills contains between 30% to 40% organic matter.  When left in landfills, the organic material decomposes and releases methane (amongst other gases) contributing greatly to climate change. </p>
               <a class="btn btn-block btn-bce btn-lg btn-block mb-2" href="contaminant-problem.php">Read More About Contamination</a>
+            </div>
+        </div>
+          
+        <div class="row">
+            <div class="col-md-6 mb-5">
+              <h3 class="featurette-heading mb-3 mt-1">Innovative Composting</h3>
+              <ul class="list-group ml-5 mr-5">
+                <li class="list-group-item"><i class="fa fa-check color-bce"></i> Guaranteed performance</li>
+                <li class="list-group-item"><i class="fa fa-check color-bce"></i> Effective and Durable</li>
+                <li class="list-group-item"><i class="fa fa-check color-bce"></i> Light to Severe contamination</li>
+                <li class="list-group-item"><i class="fa fa-check color-bce"></i> Specialized solutions</li>
+              </ul>
+            </div>
+            <div class="col-md-6 mb-5">
+              <div class="video-js-responsive-container">
+                <video id="my-video" class="video-js" controls preload="auto" poster="/bce/media/home/CLS-25-in-service.jpg" data-setup="{}">
+                  <source src="/bce/media/home/bce-liberator.mp4" type='video/mp4'>
+                  <source src="MY_VIDEO.webm" type='video/webm'>
+                  <p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a></p>
+                </video>
+              </div>
             </div>
         </div>
     </div>

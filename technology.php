@@ -22,7 +22,7 @@
           <p>Beginning with our flagship patented Compost Liberator system which removes over 95% of contaminants even when the material is heavily contaminated, through to our innovative and economical vacuum system for light contamination levels, we have a solution that is right for you.  We also offer specialized solutions for separating glass and stone, or for separating tiny plastic particles from compost fines.  We are the clean-up specialists, so please take a moment to look through the technologies that we offer.</p>
         </div>
         <div class="col-lg-5 self-align-center">
-          <div class="list-group mb-3 text-center">
+          <div class="list-group list-group-links mb-3 text-center">
             <a href="/bce/products/compost-liberator.php" class="list-group-item color-bce">Compost Liberator System</a>
             <a href="/bce/products/vacuum-system.php" class="list-group-item color-bce">Roll-off Bin Vacuum, with optional Airknife System</a>
             <a href="/bce/products/fine-contaminant-separator.php" class="list-group-item color-bce">Fine Contaminant Separator</a>

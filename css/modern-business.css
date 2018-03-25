@@ -154,9 +154,9 @@ footer {
 /*
 * Colors
 */
-.list-group-item:hover,
-.list-group-item:active,
-.list-group-item:focus {
+.list-group-links .list-group-item:hover,
+.list-group-links .list-group-item:active,
+.list-group-links .list-group-item:focus {
     border: 1px solid #76261a;
     margin-bottom: 1px;
 }
@@ -183,4 +183,21 @@ footer {
 
 h4.card-title > a.bce-color {
     color: #566c1a;
+}
+
+/* 
+* Video JS Responsive 
+*/
+
+.video-js-responsive-container {
+    padding-top: 56.25%;
+    width: 100%;
+    position: relative;
+}
+.video-js-responsive-container .video-js {
+    height: 100% !important; 
+    width: 100% !important;
+    position: absolute;
+    top: 0;
+    left: 0;
 }

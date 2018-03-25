@@ -31,24 +31,12 @@
         <div class="col-lg-5 mb-4">
           <h3>Contact Details</h3>
           <h5>Main Office</h5>
-          <p>
-            77 Mount Sima Road<br>
-            Whitehorse, Yukon Y1A 0A8<br>
-            Canada<br>
-          </p>
+          <p>77 Mount Sima Road<br>Whitehorse, Yukon Y1A 0A8<br>Canada<br></p>
+          <p>Phone: 1-867-456-7289</p>
+          <p>Email: <a href="mailto:name@example.com">info@borealcompost.ca</a></p>
+          <p>Hours: Monday - Friday: 9:00 AM to 5:00 PM</p>
           <h5>Mailing Address</h5>
           <p>Box 262-108 Elliott Street, Whitehorse Y1A 6C4</p>
-          <p>
-            <abbr title="Phone">P</abbr>: 1-867-456-7289
-          </p>
-          <p>
-            <abbr title="Email">E</abbr>:
-            <a href="mailto:name@example.com">info@borealcompost.ca
-            </a>
-          </p>
-          <p>
-            <abbr title="Hours">H</abbr>: Monday - Friday: 9:00 AM to 5:00 PM
-          </p>
         </div>
       </div>
       <!-- /.row -->
